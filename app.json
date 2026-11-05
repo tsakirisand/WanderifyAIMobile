@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Wanderify",
+    "slug": "wanderify-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "wanderify",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.wanderify.mobile"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router",
+      "expo-status-bar",
+      "expo-web-browser",
+      "expo-sharing"
+    ]
+  }
+}
